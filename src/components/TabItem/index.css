@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.lists {
+  list-style: none;
+  background-color: #dfe2e5;
+  margin: 4px;
+}
+.button {
+  background-color: #dfe2e5;
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #7b8794;
+  border: 0px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+}
+.active-btn {
+  border-bottom: 3px solid #2563eb;
+}
